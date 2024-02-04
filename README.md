@@ -16,9 +16,9 @@ ENTERキー:決定
  
 ## クラス図
  プログラムのクラス図はCOLOVENTURE.drawioファイルで確認できます。
- URL：https://app.diagrams.net/#G1v4i5qGndt3MPTLWwwR9o96sgxdIKC-9e
  
-他の機能はこちらを参照して下さい。`awesome-tool --help`.
+ URL：https://app.diagrams.net/#G1v4i5qGndt3MPTLWwwR9o96sgxdIKC-9e
+
  
 ## クレジット
  この作品の制作には、下記の素材を使用させていただきました。
@@ -35,7 +35,6 @@ https://assetstore.unity.com/packages/2d/environments/pixel-skies-demo-backgroun
 ・イワシロ音楽素材
 https://iwashiro-sounds.work/
 ・seadenden8bitfreeBGM
-
 https://seadenden-8bit.com/
 
 ※その他、株式会社ヒストリア様より提供されたマップチップ、キャラクターを使用させて
