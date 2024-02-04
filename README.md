@@ -3,7 +3,9 @@
  
 エンジニアブートキャンプ(https://www.creativevillage.ne.jp/category/event-list/seminar/134835/)
 にて2ヶ月程で作成した2D横スクロールアクションゲームです。
- 
+
+ ![image](https://github.com/mudai0910/COLOVENTURE/assets/96822472/e50cf25e-fb1e-4117-aba3-ae8b0089fc19)
+
 ## 基本操作
  
 [キーボード]
@@ -11,10 +13,6 @@ A,Dまたは左右矢印キー:キャラ移動
 SPACE:ジャンプ
 上下矢印キー:選択カーソル移動
 ENTERキー:決定
- 
-***デモ***
- 
-![デモ](https://image-url.gif)
  
 ## クラス図
  プログラムのクラス図はCOLOVENTURE.drawioファイルで確認できます。
