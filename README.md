@@ -6,6 +6,15 @@
 
 ![image](https://github.com/mudai0910/COLOVENTURE/assets/96822472/19e1c200-5ff7-43d6-b3e6-2e8a3357eddd)
 
+## 開発環境
+
+使用言語:C++
+使用ライブラリ:DxLib
+制作人数:1人
+
+## 起動方法
+本リポジトリをダウンロード後、フォルダ内の「COLOVENTURE.exe」を実行してください。
+
 ## 基本操作
  
 [キーボード]
