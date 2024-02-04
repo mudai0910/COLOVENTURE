@@ -1,0 +1,114 @@
+﻿  Character.cpp
+  Akasuke.cpp
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\GameObject\Character\Enemy\Akasuke\Akasuke.cpp(107,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Murasuke.cpp
+  Enemy.cpp
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\GameObject\Character\Enemy\Enemy.cpp(62,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\GameObject\Character\Enemy\Enemy.cpp(62,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  BackGround.cpp
+  Ground.cpp
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\GameObject\Field\Ground\Ground.cpp(62,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GameObject.cpp
+  Player.cpp
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\GameObject\Character\Player\Player.cpp(134,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\GameObject\Character\Player\Player.cpp(134,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\GameObject\Character\Player\Player.cpp(141,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\GameObject\Character\Player\Player.cpp(141,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\GameObject\Character\Player\Player.cpp(144,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\GameObject\Character\Player\Player.cpp(144,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Gimmick.cpp
+  GoalFlag.cpp
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\GameObject\Gimmick\GoalFlag\GoalFlag.cpp(27,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\GameObject\Gimmick\GoalFlag\GoalFlag.cpp(27,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\GameObject\Gimmick\GoalFlag\GoalFlag.cpp(32,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\GameObject\Gimmick\GoalFlag\GoalFlag.cpp(32,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Coin.cpp
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\GameObject\Item\Coin\Coin.cpp(25,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\GameObject\Item\Coin\Coin.cpp(25,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  EnergyDrink.cpp
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\GameObject\Item\EnergyDrink\EnergyDrink.cpp(25,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\GameObject\Item\EnergyDrink\EnergyDrink.cpp(25,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Item.cpp
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\GameObject\Item\Item.cpp(30,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\GameObject\Item\Item.cpp(30,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+  GraphicsManager.cpp
+  InputManager.cpp
+  SoundManager.cpp
+  GameClearScene.cpp
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\GameClearScene\GameClearScene.cpp(34,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\GameClearScene\GameClearScene.cpp(37,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\GameClearScene\GameClearScene.cpp(57,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\GameClearScene\GameClearScene.cpp(57,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\GameClearScene\GameClearScene.cpp(58,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\GameClearScene\GameClearScene.cpp(58,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GameOverScene.cpp
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\GameOverScene\GameOverScene.cpp(33,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\GameOverScene\GameOverScene.cpp(36,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\GameOverScene\GameOverScene.cpp(57,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\GameOverScene\GameOverScene.cpp(57,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\GameOverScene\GameOverScene.cpp(58,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\GameOverScene\GameOverScene.cpp(58,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  InGameScene.cpp
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(54,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(67,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(67,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(73,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(73,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(79,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(79,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(85,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(85,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(91,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(91,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(97,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(97,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(292,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(293,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(296,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(297,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(298,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(303,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(306,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(310,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(313,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(314,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(315,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(316,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(434,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(435,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(436,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(437,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(556,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(581,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(602,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(625,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(653,79): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(653,31): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+  Generating Code...
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\InGameScene\InGameScene.cpp(272): warning C4715: 'InGameScene::Update': not all control paths return a value
+  Compiling...
+  SceneBase.cpp
+  SceneManager.cpp
+  TitleScene.cpp
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\TitleScene\TitleScene.cpp(66,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\TitleScene\TitleScene.cpp(129,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\TitleScene\TitleScene.cpp(129,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\TitleScene\TitleScene.cpp(131,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\TitleScene\TitleScene.cpp(131,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\TitleScene\TitleScene.cpp(132,84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\TitleScene\TitleScene.cpp(132,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\TitleScene\TitleScene.cpp(137,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\TitleScene\TitleScene.cpp(137,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\TitleScene\TitleScene.cpp(140,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\TitleScene\TitleScene.cpp(140,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\TitleScene\TitleScene.cpp(148,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Scene\TitleScene\TitleScene.cpp(148,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Stage.cpp
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Stage\Stage.cpp(73,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Stage\Stage.cpp(74,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Stage\Stage.cpp(76,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\Source\Stage\Stage.cpp(76,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Vector2D.cpp
+  Generating Code...
+  EngineerBootCamp_Framework.vcxproj -> C:\Users\god\Downloads\COLOVENTUREProjects\COLOVENTUREProjects\x64\Debug\EngineerBootCamp_Framework.exe

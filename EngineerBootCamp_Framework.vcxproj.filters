@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{80beea12-f65c-41dc-a10d-81fea9a01c3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Scene">
+      <UniqueIdentifier>{55bf6ff6-3351-4495-8756-c1ad62170a3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Utility">
+      <UniqueIdentifier>{07a31044-9ea3-4f9b-904f-fcd5bdfd43de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Scene\SampleScene">
+      <UniqueIdentifier>{7c4974fa-b400-4955-8ee8-43c01dd97140}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GameObject">
+      <UniqueIdentifier>{a76aa217-70e0-4b4a-a725-8d1f3938de42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GameObject\SampleObject">
+      <UniqueIdentifier>{067aa7eb-156d-43ad-85b0-815fca504c68}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\Main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Scene\SceneBase.cpp">
+      <Filter>Source\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Scene\SceneManager.cpp">
+      <Filter>Source\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Utility\Vector2D.cpp">
+      <Filter>Source\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Scene\InGameScene\InGameScene.cpp">
+      <Filter>Source\Scene\SampleScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameObject\GameObject.cpp">
+      <Filter>Source\GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameObject\Character\Player\Player.cpp">
+      <Filter>Source\GameObject\SampleObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameObject\Field\Ground\Ground.cpp" />
+    <ClCompile Include="Source\GameObject\Character\Character.cpp" />
+    <ClCompile Include="Source\Stage\Stage.cpp" />
+    <ClCompile Include="Source\GameObject\Character\Enemy\Murasuke\Murasuke.cpp" />
+    <ClCompile Include="Source\GameObject\Character\Enemy\Enemy.cpp" />
+    <ClCompile Include="Source\GameObject\Item\Item.cpp" />
+    <ClCompile Include="Source\GameObject\Item\Coin\Coin.cpp" />
+    <ClCompile Include="Source\GameObject\Item\EnergyDrink\EnergyDrink.cpp" />
+    <ClCompile Include="Source\GameObject\Gimmick\Gimmick.cpp" />
+    <ClCompile Include="Source\GameObject\Gimmick\GoalFlag\GoalFlag.cpp" />
+    <ClCompile Include="Source\Scene\TitleScene\TitleScene.cpp" />
+    <ClCompile Include="Source\Scene\GameOverScene\GameOverScene.cpp" />
+    <ClCompile Include="Source\Scene\GameClearScene\GameClearScene.cpp" />
+    <ClCompile Include="Source\Manager\InputManager\InputManager.cpp" />
+    <ClCompile Include="Source\Manager\GraphicsManager\GraphicsManager.cpp" />
+    <ClCompile Include="Source\Manager\SoundManager\SoundManager.cpp" />
+    <ClCompile Include="Source\GameObject\Field\BackGround\BackGround.cpp" />
+    <ClCompile Include="Source\GameObject\Character\Enemy\Akasuke\Akasuke.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\SystemTypes.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Scene\SceneBase.h">
+      <Filter>Source\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Scene\SceneManager.h">
+      <Filter>Source\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Utility\Vector2D.h">
+      <Filter>Source\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameObject\GameObject.h">
+      <Filter>Source\GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameObject\Character\Player\Player.h">
+      <Filter>Source\GameObject\SampleObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameObject\Field\Ground\Ground.h" />
+    <ClInclude Include="Source\GameObject\Character\Character.h" />
+    <ClInclude Include="Source\Stage\Stage.h" />
+    <ClInclude Include="Source\Scene\InGameScene\InGameScene.h" />
+    <ClInclude Include="Source\GameObject\Character\Enemy\Murasuke\Murasuke.h" />
+    <ClInclude Include="Source\GameObject\Character\Enemy\Enemy.h" />
+    <ClInclude Include="Source\ObjectTypes.h" />
+    <ClInclude Include="Source\GameObject\Item\Item.h" />
+    <ClInclude Include="Source\GameObject\Item\Coin\Coin.h" />
+    <ClInclude Include="Source\GameObject\Item\EnergyDrink\EnergyDrink.h" />
+    <ClInclude Include="Source\GameObject\Gimmick\Gimmick.h" />
+    <ClInclude Include="Source\GameObject\Gimmick\GoalFlag\GoalFlag.h" />
+    <ClInclude Include="Source\Scene\TitleScene\TitleScene.h" />
+    <ClInclude Include="Source\Scene\GameOverScene\GameOverScene.h" />
+    <ClInclude Include="Source\Scene\GameClearScene\GameClearScene.h" />
+    <ClInclude Include="Source\Manager\InputManager\InputManager.h" />
+    <ClInclude Include="Source\Manager\GraphicsManager\GraphicsManager.h" />
+    <ClInclude Include="Source\Manager\SoundManager\SoundManager.h" />
+    <ClInclude Include="Source\GameObject\Field\BackGround\BackGround.h" />
+    <ClInclude Include="Source\GameObject\Character\Enemy\Akasuke\Akasuke.h" />
+  </ItemGroup>
+</Project>
