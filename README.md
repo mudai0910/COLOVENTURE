@@ -4,7 +4,10 @@
 エンジニアブートキャンプ(https://www.creativevillage.ne.jp/category/event-list/seminar/134835/)
 にて2ヶ月程で作成した2D横スクロールアクションゲームです。
 
-![image](https://github.com/mudai0910/COLOVENTURE/assets/96822472/19e1c200-5ff7-43d6-b3e6-2e8a3357eddd)
+
+https://github.com/mudai0910/COLOVENTURE/assets/96822472/66380dfd-7291-49c2-b338-9ae5f3944ed9
+
+
 
 ## 開発環境
 
